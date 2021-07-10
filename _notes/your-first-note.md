@@ -4,9 +4,11 @@ title: Your first seed
 
 ### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
 
 ### Link syntax
+
+A note about [[cats]]
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
 
@@ -105,5 +107,3 @@ The easiest way to build your own digital garden based on this template is to re
 Go forth, have fun, and learn new something every day! ✌️
 
 ### Footnotes
-
-
