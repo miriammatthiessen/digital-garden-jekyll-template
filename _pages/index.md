@@ -11,7 +11,7 @@ permalink: /
   Welcome to my digital garden. <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-You can find my photos [here](https://miriamatthiessen.tumblr.com/).
+You can find my photoss [here](https://miriamatthiessen.tumblr.com/).
 
 
 <style>
