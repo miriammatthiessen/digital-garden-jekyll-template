@@ -11,7 +11,7 @@ permalink: /
   Welcome to Miriam's digital garden. <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-You can find my photos [Here]
+You can find my photos text text text 
 
 
 <style>
