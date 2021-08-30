@@ -8,10 +8,10 @@ permalink: /
 # Hi!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Welcome to Miriam's digital garden. <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Welcome to my digital garden. I was introduced to this concept through my dear friend and collaborator [Anne Lee](https://notes.aleesteele.com/) and was instantly drawn to the idea of having a slowly but steadily nurtured space for unfinished and interconnected ideas. <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-You can find my photos [here](https://miriamatthiessen.tumblr.com/). I am also on [Are.NA](https://www.are.na/miriam-matthiessen) and [Twitter](https://twitter.com/miriammthsn)
+You can find my photos [here](https://miriamatthiessen.tumblr.com/). I am also on [Are.na](https://www.are.na/miriam-matthiessen) and [Twitter](https://twitter.com/miriammthsn)
 
 
 <style>
