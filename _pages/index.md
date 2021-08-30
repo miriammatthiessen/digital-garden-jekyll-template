@@ -11,7 +11,7 @@ permalink: /
   Welcome to Miriam's digital garden. <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-You can find my photos [here](https://miriamatthiessen.tumblr.com/)
+You can find my photos [here](https://miriamatthiessen.tumblr.com/). I am also on [Are.NA](https://www.are.na/miriam-matthiessen) and [Twitter](https://twitter.com/miriammthsn)
 
 
 <style>
