@@ -5,24 +5,18 @@ id: home
 permalink: /
 ---
 
-<div>
-<h1 style="font-family:Courier">
-Hello!
-</h1>
+# Hi!
 
 <style>
 p {font-family:Courier}
 </style>
 
-<p>
+<p style="padding: 3em 1em; background: powderblue; border-radius: 4px;">
   Welcome to my digital garden, a slowly but steadily nurtured space for unfinished and interconnected ideas. <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-<br>
+You can find my photos [here](https://miriamatthiessen.tumblr.com/). I am also on [Are.na](https://www.are.na/miriam-matthiessen) and [Twitter](https://twitter.com/miriammthsn)
 
-<p>
-You can find my photos [here](https://miriamatthiessen.tumblr.com/). <br> I am also on [Are.na](https://www.are.na/miriam-matthiessen) and [Twitter](https://twitter.com/miriammthsn)
-</p>
 
 <style>
   .wrapper {
