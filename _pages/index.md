@@ -5,7 +5,10 @@ id: home
 permalink: /
 ---
 
+<div>
+<h1 style="font-family:Courier">
 # Hi!
+</h1>
 
 <style>
 p {font-family:Courier}
