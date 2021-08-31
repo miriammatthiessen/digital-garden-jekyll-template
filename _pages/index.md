@@ -17,6 +17,8 @@ p {font-family:Courier}
 
 You can find my photos [here](https://miriamatthiessen.tumblr.com/). I am also on [Are.na](https://www.are.na/miriam-matthiessen) and [Twitter](https://twitter.com/miriammthsn)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Epilobium_hirsutum_-_Seed_head_-_Triptych.jpg">
+
 
 <style>
   .wrapper {
