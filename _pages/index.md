@@ -7,7 +7,7 @@ permalink: /
 
 <div>
 <h1 style="font-family:Courier">
-# Hi!
+Hello!
 </h1>
 
 <style>
@@ -20,8 +20,9 @@ p {font-family:Courier}
 
 <br>
 
+<p>
 You can find my photos [here](https://miriamatthiessen.tumblr.com/). <br> I am also on [Are.na](https://www.are.na/miriam-matthiessen) and [Twitter](https://twitter.com/miriammthsn)
-
+</p>
 
 <style>
   .wrapper {
